@@ -2,7 +2,7 @@ from langgraph.graph import StateGraph, END
 from llm.graph.state import TravelAgentState
 from llm.graph.routes import should_continue
 from llm.nodes.intent_nodes import route_intent_node
-from llm.nodes.response_node import build_response_node
+from llm.nodes.response_nodes import build_response_node
 from llm.nodes.nodes_mock import search_places_node, scheduler_node, weather_node       # mock node 등록해서 돌아가는지 확인
 from llm.graph.contracts import StateKeys # 규약 임포트
 
