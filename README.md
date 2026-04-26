@@ -614,7 +614,11 @@ TRIP_DOT_ZIP/
 <table style="width:100%; border-collapse: collapse; border:1px solid #ddd;">
 <thead><tr style="background-color:#f2f2f2;"><th style="border:1px solid #ddd; padding:8px;">대상자</th><th style="border:1px solid #ddd; padding:8px;">작성자</th><th style="border:1px solid #ddd; padding:8px;">회고 내용</th></tr></thead>
 <tbody>
-<tr><td rowspan="4" style="text-align:center; border:1px solid #ddd;"><b>김지윤</b></td><td style="text-align:center; border:1px solid #ddd;">김이선</td><td style="border:1px solid #ddd;">코드를 짜다보면 가끔 자기가 맡은 파트에만 집중하여 전체적인 흐름을 놓칠때가 있었는데 그럴때마다 전체적인 흐름을 다시 설명해주고 어떤 부분을 보강해야 할지 알려 주심. 회의때마다 프로젝트의 동작 방식에서 어떤 기능을 어떻게 쓰면 좋을 것 같다는 아이디어를 내어 수업시간에 배운 다양한 개념을 실제 프로젝트에 적용 할 수 있었음.</td></tr>
+<tr><td rowspan="4" style="text-align:center; border:1px solid #ddd;"><b>김지윤</b></td><td style="text-align:center; border:1px solid #ddd;">김이선</td><td style="border:1px solid #ddd;">이번 프로젝트의 주제를 제안하여 방향성을 설정하는 데 중요한 역할을 해주셨습니다. 또한 팀원들의 컨디션을 세심하게 살피며, 프로젝트 기간 동안 안정적으로 참여할 수 있도록 배려해 주셨습니다. 
+
+코드를 작성하다 보면 각자 맡은 파트에 집중하느라 전체 흐름을 놓치는 경우가 있었는데, 그럴 때마다 전체 구조를 다시 짚어주시고 보완해야 할 부분을 명확히 안내해 주셔서 프로젝트 완성도를 높이는 데 큰 도움이 되었습니다. 
+
+더불어 회의마다 프로젝트 동작 방식에 대해 구체적인 아이디어를 제시하며, 어떤 기능을 어떻게 활용하면 좋을지 방향을 제안해 주셨고, 이를 통해 수업 시간에 배운 다양한 개념들을 실제 프로젝트에 효과적으로 적용할 수 있었습니다. </td></tr>
 <tr><td style="text-align:center; border:1px solid #ddd;">박은지</td><td style="border:1px solid #ddd;"></td></tr>
 <tr><td style="text-align:center; border:1px solid #ddd;">위희찬</td><td style="border:1px solid #ddd;"></td></tr>
 <tr><td style="text-align:center; border:1px solid #ddd;">홍지윤</td><td style="border:1px solid #ddd;"></td></tr>
@@ -641,7 +645,11 @@ TRIP_DOT_ZIP/
 <thead><tr style="background-color:#f2f2f2;"><th style="border:1px solid #ddd; padding:8px;">대상자</th><th style="border:1px solid #ddd; padding:8px;">작성자</th><th style="border:1px solid #ddd; padding:8px;">회고 내용</th></tr></thead>
 <tbody>
 <tr><td rowspan="4" style="text-align:center; border:1px solid #ddd;"><b>박은지</b></td><td style="text-align:center; border:1px solid #ddd;">김지윤</td><td style="border:1px solid #ddd;"></td></tr>
-<tr><td style="text-align:center; border:1px solid #ddd;">김이선</td><td style="border:1px solid #ddd;">회의때마다 다양한 아이디어를 던지시고 현재 어플애서 생기는 다양한 버그를 잡아주셨음. 스케쥴 기능을 주로 잡으시며 google place tool을 다양한 방법으로 사용하심. 그로써 한층 더 발전한 스케쥴 로직을 완성 할 수 있었음.</td></tr>
+<tr><td style="text-align:center; border:1px solid #ddd;">김이선</td><td style="border:1px solid #ddd;">회의마다 다양한 아이디어를 제시하며 프로젝트의 방향성을 확장해 주셨고, 어플리케이션에서 발생하는 여러 버그를 적극적으로 해결해 주셨습니다. 
+
+특히 스케줄 기능을 중심으로 담당하시며 Google Place Tool을 다양한 방식으로 활용하여, 보다 정교하고 발전된 스케줄 로직을 완성하는 데 큰 기여를 하셨습니다. 또한 회의에서 논의된 기능뿐만 아니라 추가적으로 있으면 좋을 기능들을 선제적으로 제안하고 구현하여, 프로젝트의 완성도를 한층 높여주셨습니다. 
+
+전체 그래프 구조와 intent 분기 로직을 맡아 책임감 있게 수행하며, 맡은 바에 최선을 다해 최상의 결과를 이끌어내셨습니다. </td></tr>
 <tr><td style="text-align:center; border:1px solid #ddd;">위희찬</td><td style="border:1px solid #ddd;"></td></tr>
 <tr><td style="text-align:center; border:1px solid #ddd;">홍지윤</td><td style="border:1px solid #ddd;"></td></tr>
 </tbody>
@@ -654,7 +662,11 @@ TRIP_DOT_ZIP/
 <thead><tr style="background-color:#f2f2f2;"><th style="border:1px solid #ddd; padding:8px;">대상자</th><th style="border:1px solid #ddd; padding:8px;">작성자</th><th style="border:1px solid #ddd; padding:8px;">회고 내용</th></tr></thead>
 <tbody>
 <tr><td rowspan="4" style="text-align:center; border:1px solid #ddd;"><b>위희찬</b></td><td style="text-align:center; border:1px solid #ddd;">김지윤</td><td style="border:1px solid #ddd;"></td></tr>
-<tr><td style="text-align:center; border:1px solid #ddd;">김이선</td><td style="border:1px solid #ddd;">스트림릿을 구현해 주셨음. 다른 팀원이 건낸 디자인을 그대로 구현하며 팀원들의 스트림릿 걱정을 없애줌. 마스코트인 땃쥐캐릭터에게 생명력을 불어넣어주며 사용자의 지루함과 라포형성에 큰 역할을 함. 또한 스트림릿의 백엔드 부분을 구현해주며 사용자의 기능사용과 여러 페르소나의 DB를 쌓을 수 있게 해줌.</td></tr>
+<tr><td style="text-align:center; border:1px solid #ddd;">김이선</td><td style="border:1px solid #ddd;">스트림릿 구현을 담당하여, 다른 팀원이 전달한 디자인을 충실히 반영함으로써 팀원들의 UI 구현에 대한 부담을 크게 줄여주셨습니다. 
+
+또한 프로젝트의 마스코트인 땃쥐 캐릭터에 생동감을 더해 사용자에게 친근한 경험을 제공하고, 지루함을 줄이는 동시에 라포 형성에도 중요한 역할을 하셨습니다. 그 결과, 사용자들이 어플리케이션을 보다 즐겁게 사용할 수 있는 환경을 조성하였습니다. 
+
+더불어 스트림릿의 백엔드까지 함께 구현하여 사용자 기능 활용이 원활하게 이루어지도록 했으며, 다양한 페르소나 데이터를 축적할 수 있는 기반도 마련해 주셨습니다. 이를 통해 스트림릿의 다양한 기능을 효과적으로 활용할 수 있도록 기여하셨습니다.</td></tr>
 <tr><td style="text-align:center; border:1px solid #ddd;">박은지</td><td style="border:1px solid #ddd;"></td></tr>
 <tr><td style="text-align:center; border:1px solid #ddd;">홍지윤</td><td style="border:1px solid #ddd;"></td></tr>
 </tbody>
@@ -667,7 +679,11 @@ TRIP_DOT_ZIP/
 <thead><tr style="background-color:#f2f2f2;"><th style="border:1px solid #ddd; padding:8px;">대상자</th><th style="border:1px solid #ddd; padding:8px;">작성자</th><th style="border:1px solid #ddd; padding:8px;">회고 내용</th></tr></thead>
 <tbody>
 <tr><td rowspan="4" style="text-align:center; border:1px solid #ddd;"><b>홍지윤</b></td><td style="text-align:center; border:1px solid #ddd;">김지윤</td><td style="border:1px solid #ddd;"></td></tr>
-<tr><td style="text-align:center; border:1px solid #ddd;">김이선</td><td style="border:1px solid #ddd;">맡으신 파트 뿐만 아니라 여러 방면에 생기는 문제를 해결해 주시며 프로젝트의 전반적인 부분을 맡아주셨습니다. 프로젝트를 진행하다가 생기는 오류 중 자기 파트의 오류가 아니고 전체적으로 봐서 분해야 하는 부분에서는 항상 지윤님께서 langsmith를 파악하여 알려주셨습니다. 또한 회의 중 다른 </td></tr>
+<tr><td style="text-align:center; border:1px solid #ddd;">김이선</td><td style="border:1px solid #ddd;">프로젝트를 진행하는 동안, 맡은 파트의 난이도와 업무량이 많음에도 불구하고 이를 성실히 수행하셨으며, 자신의 역할에 국한되지 않고 전반적인 영역에서 발생하는 다양한 문제를 적극적으로 해결해 주셨습니다. 특히 특정 파트의 문제가 아닌 전체 흐름에서 발생하는 오류에 대해서는 LangSmith를 활용해 원인을 빠르게 파악하고 공유해 주셔서 프로젝트 진행에 큰 도움이 되었습니다.
+
+또한 회의 중 논의가 주제에서 벗어날 때마다 자연스럽게 방향을 정리하고 중심을 잡아주셔서, 팀이 보다 명확한 목표를 바탕으로 효율적인 의사결정을 할 수 있도록 이끌어 주셨습니다. 이러한 기여는 회의의 질을 높였고, 결과적으로 프로젝트의 완성도를 크게 향상시키는 데 중요한 역할을 했습니다.
+
+아울러 프로젝트 진행 중 팀원들이 어려움을 겪고 방향을 잃을 때마다, 문제를 차분하게 정리하고 해결 방향을 함께 모색할 수 있도록 주도하여 팀이 다시 안정적으로 나아갈 수 있도록 도와주셨습니다. </td></tr>
 <tr><td style="text-align:center; border:1px solid #ddd;">박은지</td><td style="border:1px solid #ddd;"></td></tr>
 <tr><td style="text-align:center; border:1px solid #ddd;">위희찬</td><td style="border:1px solid #ddd;"></td></tr>
 </tbody>
